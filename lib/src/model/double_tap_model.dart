@@ -1,4 +1,4 @@
-import 'package:double_tap_player_view/src/model/lr.dart';
+import 'package:double_tap_player_view_plus/src/model/lr.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:uuid/uuid.dart';

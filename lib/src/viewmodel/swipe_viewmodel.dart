@@ -1,5 +1,5 @@
-import 'package:double_tap_player_view/src/model/swipe_data.dart';
-import 'package:double_tap_player_view/src/model/swipe_model.dart';
+import 'package:double_tap_player_view_plus/src/model/swipe_data.dart';
+import 'package:double_tap_player_view_plus/src/model/swipe_model.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class SwipeViewModel extends StateNotifier<SwipeModel> {

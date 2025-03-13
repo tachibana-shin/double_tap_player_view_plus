@@ -1,4 +1,4 @@
-import 'package:double_tap_player_view/src/model/swipe_data.dart';
+import 'package:double_tap_player_view_plus/src/model/swipe_data.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
 part 'swipe_model.freezed.dart';

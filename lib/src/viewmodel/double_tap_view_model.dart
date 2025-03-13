@@ -1,5 +1,5 @@
-import 'package:double_tap_player_view/src/model/double_tap_model.dart';
-import 'package:double_tap_player_view/src/model/lr.dart';
+import 'package:double_tap_player_view_plus/src/model/double_tap_model.dart';
+import 'package:double_tap_player_view_plus/src/model/lr.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class DoubleTapViewModel extends StateNotifier<DoubleTapState> {

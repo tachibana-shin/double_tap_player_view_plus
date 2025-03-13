@@ -1,9 +1,9 @@
-import 'package:double_tap_player_view/src/model/double_tap_config.dart';
-import 'package:double_tap_player_view/src/model/lr.dart';
-import 'package:double_tap_player_view/src/model/swipe_config.dart';
-import 'package:double_tap_player_view/src/model/swipe_data.dart';
-import 'package:double_tap_player_view/src/ui/double_tap_animated.dart';
-import 'package:double_tap_player_view/src/ui/horizontal_drag_detector.dart';
+import 'package:double_tap_player_view_plus/src/model/double_tap_config.dart';
+import 'package:double_tap_player_view_plus/src/model/lr.dart';
+import 'package:double_tap_player_view_plus/src/model/swipe_config.dart';
+import 'package:double_tap_player_view_plus/src/model/swipe_data.dart';
+import 'package:double_tap_player_view_plus/src/ui/double_tap_animated.dart';
+import 'package:double_tap_player_view_plus/src/ui/horizontal_drag_detector.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';

@@ -1,4 +1,4 @@
-import 'package:double_tap_player_view/double_tap_player_view.dart';
+import 'package:double_tap_player_view_plus/double_tap_player_view_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:video_player/video_player.dart';

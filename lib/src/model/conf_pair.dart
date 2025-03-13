@@ -1,4 +1,4 @@
-import 'package:double_tap_player_view/src/model/double_tap_model.dart';
+import 'package:double_tap_player_view_plus/src/model/double_tap_model.dart';
 
 class ConfPair {
 

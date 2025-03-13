@@ -1,6 +1,6 @@
-# double_tap_player_view_example
+# double_tap_player_view_plus_example
 
-Demonstrates how to use the double_tap_player_view plugin.
+Demonstrates how to use the double_tap_player_view_plus plugin.
 
 ## Getting Started
 

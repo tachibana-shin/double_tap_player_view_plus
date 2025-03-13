@@ -1,6 +1,6 @@
-import 'package:double_tap_player_view/double_tap_player_view.dart';
-import 'package:double_tap_player_view/src/model/conf_pair.dart';
-import 'package:double_tap_player_view/src/model/double_tap_model.dart';
+import 'package:double_tap_player_view_plus/double_tap_player_view_plus.dart';
+import 'package:double_tap_player_view_plus/src/model/conf_pair.dart';
+import 'package:double_tap_player_view_plus/src/model/double_tap_model.dart';
 import 'package:flutter/material.dart';
 
 /// widget config for [DoubleTapPlayerView] about double tap event
